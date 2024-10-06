@@ -1,0 +1,5 @@
+# .prettierignore
+# Ignore node_modules directory
+node_modules/
+# Ignore all files in dist folder
+dist/
